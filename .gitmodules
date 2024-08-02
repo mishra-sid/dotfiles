@@ -1,0 +1,3 @@
+[submodule "/Users/sid/.config/nvim"]
+	path = /Users/sid/.config/nvim
+	url = https://github.com/mishra-sid/kickstart.nvim.git
