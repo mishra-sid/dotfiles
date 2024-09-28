@@ -4,6 +4,7 @@
 
 # Recursively allow files under subtree
 !.config/**
+!.fonts/**
 
 # Allow git stuff
 !.gitignore
